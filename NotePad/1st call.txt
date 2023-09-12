@@ -1,0 +1,14 @@
+1.Static keyword
+2.Exception (try Catch)
+3.Inheritance
+4.Object class
+5.To string
+6.Abstract class
+
+public class Employee{
+private String name;
+final double salary = 30000;
+
+
+
+}
