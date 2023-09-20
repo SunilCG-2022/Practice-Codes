@@ -1,6 +1,3 @@
-package java8;
-//Write a Java program to convert a list of strings to uppercase or lowercase using streams.
-
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;

@@ -1,4 +1,3 @@
-package java8;
 
 //Write a Java program to calculate the average of a list of integers using streams.
 

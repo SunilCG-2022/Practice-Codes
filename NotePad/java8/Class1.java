@@ -1,6 +1,6 @@
 //Java program to convert Map<key,value> to stream.
 
-package java8;
+
 
 import java.util.Arrays;
 import java.util.HashMap;

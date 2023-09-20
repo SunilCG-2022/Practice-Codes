@@ -1,5 +1,4 @@
-package java8;
-// Write a Java program to remove all duplicate elements from a list using streams.
+
 
 import java.util.Arrays;
 import java.util.List;
