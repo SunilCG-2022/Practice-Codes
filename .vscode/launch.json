@@ -4,7 +4,69 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
+        {
+            "type": "java",
+            "name": "HeapSort",
+            "request": "launch",
+            "mainClass": "Algos.HeapSort",
+            "projectName": "codes_b071eb16"
+        },
+        {
+            "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "Algos.MergeSort",
+            "projectName": "codes_b071eb16"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "codes_b071eb16"
+        },
+        {
+            "type": "java",
+            "name": "ExtractIPAddresses",
+            "request": "launch",
+            "mainClass": "ExtractIPAddresses",
+            "projectName": "codes_b071eb16"
+        },
+        {
+            "type": "java",
+            "name": "InsertionSort",
+            "request": "launch",
+            "mainClass": "Algos.InsertionSort",
+            "projectName": "codes_b071eb16"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSortString",
+            "request": "launch",
+            "mainClass": "Algos.BubbleSortString",
+            "projectName": "codes_b071eb16"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "Algos.BubbleSort",
+            "projectName": "codes_b071eb16"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSortString",
+            "request": "launch",
+            "mainClass": "Algos.SelectionSortString",
+            "projectName": "codes_b071eb16"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "Algos.SelectionSort",
+            "projectName": "codes_b071eb16"
+        },
         {
             "name": "(gdb) Attach",
             "type": "cppdbg",
