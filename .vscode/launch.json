@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TwoLists",
+            "request": "launch",
+            "mainClass": "TwoLists",
+            "projectName": "codes_b071eb16"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "codes_b071eb16"
+        },
+        {
+            "type": "java",
             "name": "HeapSort",
             "request": "launch",
             "mainClass": "Algos.HeapSort",
